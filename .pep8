@@ -1,0 +1,3 @@
+[pep8]
+exclude=urls.py,conf.py
+ignore=E501
